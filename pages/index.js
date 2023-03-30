@@ -13,23 +13,22 @@ export default function Home() {
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               프론트엔드 개발자&nbsp;
               <br className="hidden lg:inline-block" />
-              조준영
+              홍길동
             </h1>
             <p className="mb-8 leading-relaxed">
-              품에 않는 살 청춘의 오아이스도 무엇이 얼음에 생의 반짝이는
-              사막이다. 열락의 인생에 청춘의 있는 광야에서 일월과 부패를 때까지
-              쓸쓸하랴? 피어나는 스며들어 사라지지 튼튼하며, 피가 대한 무엇을
-              같으며, 이것이다. 타오르고 아니더면, 따뜻한 노년에게서 장식하는
-              위하여 그리하였는가? 보내는 얼음이 풍부하게 수 얼음과 되는 얼마나
-              것이다. 일월과 긴지라 이상의 용감하고 가는 이상, 인간에 있다. 든
-              위하여 인생의 우리 피가 이상은 그리하였는가? 같이 끓는 그것을
-              천지는 봄바람이다. 투명하되 보배를 거친 청춘을 보이는 청춘 이상은
-              대한 있으랴? 내는 힘차게 이것이야말로 심장은 뜨고, 있다. 이성은
-              그들은 청춘은 과실이 원질이 것이다.
+              이상의 전인 바로 가치를 품고 풍부하게 청춘의 있으랴? 피부가 두손을
+              노년에게서 대고, 그러므로 더운지라 역사를 우리 칼이다. 이상이
+              더운지라 하는 꽃 힘차게 그것을 때문이다. 있는 고동을 갑 물방아
+              이상의 대한 이상, 것이다. 것이 착목한는 그들은 끓는 힘차게 인간에
+              동산에는 이상이 피다. 밥을 이성은 귀는 것이 것은 그러므로 뭇
+              것이다. 이것을 청춘의 있는 몸이 그것은 피가 청춘의 열락의 있다.
+              대고, 이상을 찾아 놀이 남는 밝은 인간은 뜨거운지라, 두손을 것이다.
+              그들은 방황하여도, 사라지지 듣는다. 것이 너의 그들의 품으며, 이는
+              능히 사람은 찾아다녀도, 칼이다.
             </p>
             <div className="flex justify-center">
-              <Link href="/portfolio">
-                <button className="btn-project-index">Portfolio</button>
+              <Link legacyBehavior href="/portfolio">
+                <button className="btn-project-index">Portofolio</button>
               </Link>
             </div>
           </div>
